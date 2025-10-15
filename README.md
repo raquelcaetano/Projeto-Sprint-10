@@ -11,7 +11,7 @@ Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
 ---
 
 ## 📄 Descrição
-Este notebook realiza a **preparação**,**análise**, **tratamento** e **apresentação** de dados utilizando Python, Pandas, Matplotlib, Numpy e Seaborn.
+Este notebook realiza a **preparação**, **análise**, **tratamento** e **apresentação** de dados utilizando Python, Pandas, Matplotlib, Numpy e Seaborn.
 O objetivo é preparar uma pesquisa do mercado de cafês com garçons robôs em Los Angeles.
 ---
 
