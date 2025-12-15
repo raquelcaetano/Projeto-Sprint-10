@@ -2,22 +2,22 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Projeto Sprint 10</h1>
+<h1 align="center">Market Analysis of Robot Waiter Coffee Shops</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **preparação**,**análise**,**tratamento** e **apresentação** de dados utilizando Python, Pandas, Matplotlib, Numpy e Seaborn.
-O objetivo é preparar uma pesquisa do mercado de cafês com garçons robôs em Los Angeles.
+## 📄 Description
+This notebook performs the **preparation**, **analysis**, **processing**, and **presentation** of data using Python, Pandas, Matplotlib, Numpy, and Seaborn.
+The goal is to prepare a market research study of coffee shops with robot waiters in Los Angeles.
 
 ---
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 - Python 3.11.9
 - Jupyter Notebook 
 - Pandas
@@ -28,12 +28,13 @@ O objetivo é preparar uma pesquisa do mercado de cafês com garçons robôs em 
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `Sprint10.ipynb` no **Jupyter Notebook**.
-2. Execute as células em ordem.
-3. Visualize os resultados do tratamento de dados.
+## 🚀 How to use
+1. Open the `Sprint2.ipynb` file in **Jupyter Notebook**.
+2. Run the cells in order.
+3. View the results of the data processing.
+
 
 ---
 
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
